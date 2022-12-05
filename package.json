@@ -1,6 +1,6 @@
 {
   "name": "deploy-test-button",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "test",
   "main": "./dist/bundle.js",
   "repository": "https://github.com/bluesky6667/test-button.git",
