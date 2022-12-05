@@ -1,6 +1,6 @@
 {
   "name": "deploy-test-button",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "test",
   "main": "./src/index.jsx",
   "repository": "https://github.com/bluesky6667/test-button.git",
