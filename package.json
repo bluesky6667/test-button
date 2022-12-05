@@ -1,8 +1,8 @@
 {
   "name": "deploy-test-button",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "test",
-  "main": "./dist/js/app.js",
+  "main": "./src/index.jsx",
   "repository": "https://github.com/bluesky6667/test-button.git",
   "author": "bluesky6667",
   "license": "MIT",
