@@ -1,8 +1,8 @@
 {
   "name": "deploy-test-button",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "test",
-  "main": "./src/index.jsx",
+  "main": "./dist/js/app.js",
   "repository": "https://github.com/bluesky6667/test-button.git",
   "author": "bluesky6667",
   "license": "MIT",
@@ -25,6 +25,5 @@
     "start": "webpack-dev-server --mode development",
     "prebuild": "rimraf dist",
     "build": "webpack --progress --mode production"
-  },
-  "type": "module"
+  }
 }
